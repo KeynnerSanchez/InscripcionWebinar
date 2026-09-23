@@ -73,5 +73,3 @@ mvn exec:java
 5. Contar los participantes inscritos.
 6. Eliminar uno por su id y contar de nuevo.
 7. Intentar eliminar un id que no existe: se informa sin errores no controlados.
-
-_(Agrega aqui las capturas de pantalla de cada prueba antes de entregar.)_
